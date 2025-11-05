@@ -44,9 +44,7 @@ Compared to the tutorial baseline, I improved the app with:
 ---
 
 ## Demo Video
-🎥 **Demo link:** [Upload to YouTube or Google Drive and paste link here]  
-Example:  
-https://drive.google.com/file/d/your-demo-link/view
+
 
 ---
 
