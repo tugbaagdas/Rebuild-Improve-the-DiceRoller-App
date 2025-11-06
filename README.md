@@ -67,9 +67,9 @@ https://drive.google.com/file/d/1RPL_3hIRl1D7nFpTJ_-DabdIa1m67eyo/view?usp=shari
 ---
 
 ## References
-- W3Schools Kotlin Basics
-- Official Android Developer Docs
-- YouTube Playlist (given in syllabus)
+- “Kotlin Tutorial.” W3Schools, Refsnes Data, https://www.w3schools.com/KOTLIN/index.php 
+- “Android Code Samples.” Android Developers, Google, https://developer.android.com/samples
+- Dice Roller App – Android Basics in Kotlin. YouTube, uploaded by Google Developers, 10 Feb. 2021, https://youtu.be/ZUxjNoGdxM8?list=PLsF3G8o7POZwo9bBmt8l9aFY9b94mJc6A
 
 ---
 
