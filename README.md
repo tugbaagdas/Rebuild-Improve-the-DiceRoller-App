@@ -39,9 +39,10 @@ Compared to the tutorial baseline, I improved the app with:
 ---
 
 ## Screenshots
-![Screenshot 2025-11-05 at 1.37.10 PM.png](../../../../../var/folders/dq/5mkdk4kn0s99zl327fvql0zh0000gn/T/TemporaryItems/NSIRD_screencaptureui_wOm38g/Screenshot%202025-11-05%20at%201.37.10%E2%80%AFPM.png) 
-![Screenshot 2025-11-05 at 1.38.06 PM.png](../../../../../var/folders/dq/5mkdk4kn0s99zl327fvql0zh0000gn/T/TemporaryItems/NSIRD_screencaptureui_n9Dww1/Screenshot%202025-11-05%20at%201.38.06%E2%80%AFPM.png)
----
+<img width="303" height="696" alt="Screenshot 2025-11-05 at 7 19 58 PM" src="https://github.com/user-attachments/assets/28e00f1d-6109-42a4-b6ea-fb03ae1933da" />
+<img width="303" height="696" alt="Screenshot 2025-11-05 at 7 19 55 PM" src="https://github.com/user-attachments/assets/84027d11-88f6-467b-bbdb-87b758da692b" />
+<img width="317" height="616" alt="Screenshot 2025-11-05 at 1 38 00 PM" src="https://github.com/user-attachments/assets/e2823387-38d9-4791-a7f0-2b90f60ae278" />
+
 
 ## Demo Video
 https://drive.google.com/file/d/1RPL_3hIRl1D7nFpTJ_-DabdIa1m67eyo/view?usp=sharing 
